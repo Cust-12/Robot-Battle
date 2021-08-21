@@ -1,4 +1,4 @@
-Robot Battle
+# Robot Battle
 
 There are 4 different classes of robots with different stats. During each run, two robots are randomly chosen and will assign a specific type of weapon to themselves based off the stats of the opposing robot.
 
